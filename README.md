@@ -37,7 +37,7 @@
 
 > 프론트엔드 엔지니어를 꿈꾼다면 정확하게 알고 있어야 하는 것들, 하나라도 모르면 떨어진다고 봐도 무방합니다. 꼭 알고 들어갑시다.
 
-- [브라우저의 렌더링 원리](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/browser-rendering.md) - 브라우저의 렌더링 원리에 대해 설명해주세요.
+- [브라우저의 렌더링 원리](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/browser-rendering.md) - 브라우저의 렌더링 원리에 대해 설명해주세요.
 
 - [Reflow와 Repaint가 실행되는 시점](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/reflow-repaint.md) - Reflow와 Repaint가 실행되는 시점에 대해 말씀해주세요.
 
