@@ -26,7 +26,7 @@
   <br>
 - [프론트엔드 면접 문제 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
 
-위의 두 링크를 참고해 중요도별로 먼저 정리하였습니다.
+위의 두 링크를 참고해 중요도 별로 먼저 정리하였습니다.
 
 
 <br>
