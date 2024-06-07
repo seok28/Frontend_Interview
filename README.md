@@ -39,7 +39,7 @@
 
 - [브라우저의 렌더링 원리](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/browser-rendering.md) - 브라우저의 렌더링 원리에 대해 설명해주세요.
 
-- [Reflow와 Repaint가 실행되는 시점](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/reflow-repaint.md) - Reflow와 Repaint가 실행되는 시점에 대해 말씀해주세요.
+- [Reflow와 Repaint가 실행되는 시점](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/reflow-repaint.md) - Reflow와 Repaint가 실행되는 시점에 대해 말씀해주세요.
 
 - [주소창에 google.com을 입력하면 일어나는 일](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/what-happens-when-type-google.md) - 주소창에 google.com을 입력하면 일어나는 일에 대해 말씀해주세요.
 
