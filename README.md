@@ -61,29 +61,29 @@
 
 > 90% 이상을 알아야 하며 많이 대답한다고 좋은게 아니라 정확하게 대답해야 합니다. 본인이 프론트엔드 엔지니어라고 말하고 싶다면 필수적으로 알아야 합니다.
 
-- [this의 용법](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/this.md) - this의 용법에 대해 아는대로 설명해주세요.
+- [this의 용법](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/this.md) - this의 용법에 대해 아는대로 설명해주세요.
 
-- [브라우저 저장소의 차이점](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/web-storage.md) - 브라우저 저장소의 차이점에 대해 설명해주세요. (LocalStorage,SessionStorage,Cookie)
+- [브라우저 저장소의 차이점](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/web-storage.md) - 브라우저 저장소의 차이점에 대해 설명해주세요. (LocalStorage,SessionStorage,Cookie)
 
-- [Restful API](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/restful-api.md) - Restful API에 대해 아는대로 설명해주세요. (GET, PUT, POST, PATCH, OPTION, DELETE)
+- [Restful API](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/restful-api.md) - Restful API에 대해 아는대로 설명해주세요. (GET, PUT, POST, PATCH, OPTION, DELETE)
 
-- [JavaScript는 어떤 언어일까?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/about-javascript.md) - JavaScript는 어떤 언어인가요?
+- [JavaScript는 어떤 언어일까?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/about-javascript.md) - JavaScript는 어떤 언어인가요?
 
-- [JavaScript에서 비동기적으로 코딩하기](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/async-in-javascript.md) - JavaScript에서 비동기적으로 코딩하는 법을 알려주세요.
+- [JavaScript에서 비동기적으로 코딩하기](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/async-in-javascript.md) - JavaScript에서 비동기적으로 코딩하는 법을 알려주세요.
 
-- [Event Loop](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/event-loop.md) - Event Loop에 대해 알고 있으신가요?
+- [Event Loop](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/event-loop.md) - Event Loop에 대해 알고 있으신가요?
 
-- [마이크로태스크 큐, 태스크 큐](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/microtask-queue-task-queue.md) - 마이크로태스크 큐와 태스크 큐에 대해서 말씀해주세요.
+- [마이크로태스크 큐, 태스크 큐](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/microtask-queue-task-queue.md) - 마이크로태스크 큐와 태스크 큐에 대해서 말씀해주세요.
 
-- [이벤트 전파](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/event-bubbling.md) - 이벤트 버블링에 대해서 말씀해주세요.
+- [이벤트 전파](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/event-bubbling.md) - 이벤트 버블링에 대해서 말씀해주세요.
 
-- [타입스크립트란?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/type-script.md) - 타입 스크립트 사용해 본적이 있나요? 어떤지 말씀해주세요.
+- [타입스크립트란?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/type-script.md) - 타입 스크립트 사용해 본적이 있나요? 어떤지 말씀해주세요.
 
-- [실행문맥(실행 컨텍스트)](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/execution-context.md) - 실행 문맥에 대해서 설명해주세요.
+- [실행문맥(실행 컨텍스트)](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/execution-context.md) - 실행 문맥에 대해서 설명해주세요.
 
-- [SPA, CSR, SSR의 차이](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/spa-scr-ssr.md) - SPA, CSR, SSR의 차이에 대해 설명해주세요.
+- [SPA, CSR, SSR의 차이](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/spa-scr-ssr.md) - SPA, CSR, SSR의 차이에 대해 설명해주세요.
 
-- [null, undefined, undeclared, NaN](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-4/null-undefined-undeclared-nan.md) - null, undefined, undeclared, NaN 에 대해 설명해주세요.
+- [null, undefined, undeclared, NaN](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-4/null-undefined-undeclared-nan.md) - null, undefined, undeclared, NaN 에 대해 설명해주세요.
 
 <br>
 
@@ -93,19 +93,19 @@
 
 > JavaScript 프레임워크, 플러그인, 그 외 사용법 등 중요한 질문입니다.
 
-- [HTML 렌더링 중에 JavaScript가 실행되면 렌더링이 멈추는 이유](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/why-stop-rendering.md) - HTML이 렌더링 중에 JavaScript가 실행되면 멈추는데 그 이유는 무엇일까요?
+- [HTML 렌더링 중에 JavaScript가 실행되면 렌더링이 멈추는 이유](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/why-stop-rendering.md) - HTML이 렌더링 중에 JavaScript가 실행되면 멈추는데 그 이유는 무엇일까요?
 
-- [require와 import의 차이점](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/require-import.md) - require와 import의 차이점에 대해 설명해주세요.
+- [require와 import의 차이점](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/require-import.md) - require와 import의 차이점에 대해 설명해주세요.
 
-- [var, let, const의 차이점](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/var-let-const.md) - var, let, const의 차이점에 대해 설명해주세요.
+- [var, let, const의 차이점](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/var-let-const.md) - var, let, const의 차이점에 대해 설명해주세요.
 
-- [sass(scss)의 장점](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/sass-scss.md) - SASS(SCSS)를 사용해본 적이 있나요? 기존 CSS와 비교할 때 어떤 면이 더 좋은가요?
+- [sass(scss)의 장점](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/sass-scss.md) - SASS(SCSS)를 사용해본 적이 있나요? 기존 CSS와 비교할 때 어떤 면이 더 좋은가요?
 
-- [CORS에 대처하는 방법과 우회하는 방법](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/how-to-handle-cors-error.md) - CORS에 대처하는 방법과 우회하는 방법에 대해 설명해주세요.
+- [CORS에 대처하는 방법과 우회하는 방법](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/how-to-handle-cors-error.md) - CORS에 대처하는 방법과 우회하는 방법에 대해 설명해주세요.
 
-- [React의 라이프 사이클](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/react-life-cycle.md) - React의 라이프 사이클에 대해 설명해주세요.
+- [React의 라이프 사이클](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/react-life-cycle.md) - React의 라이프 사이클에 대해 설명해주세요.
 
-- [ES6에서 Arrow 함수를 언제, 왜 쓸까?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-3/es6-arrow-function.md) - ES6에서 Arrow 함수를 언제 쓰나요? 왜 쓰나요?
+- [ES6에서 Arrow 함수를 언제, 왜 쓸까?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-3/es6-arrow-function.md) - ES6에서 Arrow 함수를 언제 쓰나요? 왜 쓰나요?
 
 <br>
 
