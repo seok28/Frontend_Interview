@@ -41,17 +41,17 @@
 
 - [Reflow와 Repaint가 실행되는 시점](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/reflow-repaint.md) - Reflow와 Repaint가 실행되는 시점에 대해 말씀해주세요.
 
-- [주소창에 google.com을 입력하면 일어나는 일](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/what-happens-when-type-google.md) - 주소창에 google.com을 입력하면 일어나는 일에 대해 말씀해주세요.
+- [주소창에 google.com을 입력하면 일어나는 일](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/what-happens-when-type-google.md) - 주소창에 google.com을 입력하면 일어나는 일에 대해 말씀해주세요.
 
-- [호이스팅(hoisting)이란?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/hoisting.md) - 호이스팅에 대해서 설명해주세요.
+- [호이스팅(hoisting)이란?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/hoisting.md) - 호이스팅에 대해서 설명해주세요.
 
-- [클로저(Closure)란?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/closure.md) - 클로저에 대해서 설명해주세요.
+- [클로저(Closure)란?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/closure.md) - 클로저에 대해서 설명해주세요.
 
-- [CSS에서 margin과 padding이란?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/margin-padding.md) - CSS에서 margin과 padding에 대해서 설명해주세요.
+- [CSS에서 margin과 padding이란?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/margin-padding.md) - CSS에서 margin과 padding에 대해서 설명해주세요.
 
-- [CSS에서 position이란?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/position.md) - CSS에서 position을 어떻게 사용하는지 설명해주세요.
+- [CSS에서 position이란?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/position.md) - CSS에서 position을 어떻게 사용하는지 설명해주세요.
 
-- [REST API란?](https://github.com/seok28/Frontend-Interview/blob/main/Notes/important-5/rest-api.md) - REST API란 무엇인지 설명해주세요.
+- [REST API란?](https://github.com/seok28/Frontend_Interview/blob/main/Notes/important-5/rest-api.md) - REST API란 무엇인지 설명해주세요.
 
 <br>
 
